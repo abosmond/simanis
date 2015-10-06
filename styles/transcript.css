@@ -1,0 +1,50 @@
+#transcriptLegend {
+	width: 80%;
+	margin: 90px 0px 15px 0px;
+	padding: 15px;
+	border: 1px #E0E1D9 dotted;
+	background-color: #FCFCFA;
+	vertical-align: top;
+}
+
+#transcriptLegend h3 {
+	color: #003366
+}
+
+.transcriptLegend_entry {
+	/*background-color: #FF0000;*/
+	padding: 0px 0px 20px 0px;
+}
+
+#transcriptLegend_left {
+	width: 50%;
+	padding: 0px 13px 0px 0px;
+	float:left;
+	/*border-right: 1px #E0E1D9 dotted;*/
+}
+
+#transcriptLegend_right {
+	width: 50%;
+	padding: 0px 13px 0px 0px;
+	float: right;
+}
+
+#transcript_header {
+	width:80%;
+	margin: 0px 0px 15px 0px;
+}
+
+#transcript_logougm {
+	width: 13%;
+	float: left;
+}
+
+#transcript_title {
+	width: 87%;
+	float: right;
+	vertical-alignment: middle;
+}
+
+#transcript_userbio {
+	margin: 0px 0px 25px 0px;
+}

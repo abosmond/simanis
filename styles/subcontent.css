@@ -1,0 +1,144 @@
+#subcontent {
+	width: auto;
+	height: 100%;
+	padding: 10px 0px 10px 0px;
+	margin: 0px 0px 0px 0px;
+	float: right;
+	
+	/*Hapus ini kalau msialnya ad ayg kacau*/
+	position: absolute;
+	left: 180px;
+	top: 100px;
+	/*background-color: #ff0000;
+	width: auto;
+	height: 100%;
+	padding: 0px;
+	margin: 0px 0px 0px 30px;*/
+}
+
+#subcontent-wide {
+	width: auto;
+	height: 100%;
+	padding: 10px 0px 10px 0px;
+	margin: 0px 0px 0px 0px;
+	float: right;
+	position: absolute;
+	left: 177px;
+	top: 101px;
+}
+
+#subcontent-normal {
+	background-color: #F8F9F5;
+	padding: 0px;
+	margin: 0px 0px 0px 5px;
+	overflow: hidden;
+	background-image: url('../images/info_area-background.gif');
+}
+
+.subcontent-element {
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 0.8em;
+	margin: 0px 0px 20px 0px;
+	padding: 0px 10px 50px 20px;
+	width: 100%;
+}
+
+.subcontent-element h1 {
+	color: #a0410d;
+	font-family: 'Trebuchet MS', Arial, Geneva, sans-serif;
+	font-size: 1.4em;
+	margin: 0px;
+	padding: 2px 0px 0px 0px;
+}
+
+.subcontent-element h2 {
+	color: #a0410d;
+	font-family: 'Trebuchet MS', Arial, Geneva, sans-serif;
+	font-size: 1.2em;
+	margin: 0px;
+	padding: 2px 0px 0px 0px;
+}
+
+.subcontent-element h3 {
+	color: #003366;
+	font-size: 1.0em;
+	margin: 0;
+	padding: 2px 0px 3px 0px;
+}
+
+.subcontent-element h4 {
+	color: #333333;
+	font-size: 1.0em;
+	margin: 0px 0px 0px 0px;
+	padding: 2px 0px 3px 0px;
+}
+
+.subcontent-element h5 {
+	color: #333333;
+	font-size: 1.0em;
+	font-weight: normal;
+	margin: 0px 0px 0px 0px;
+	padding: 2px 0px 3px 0px;
+}
+
+.subcontent-element h6 {
+	color: #333333;
+	font-size: 0.8em;
+	font-weight: normal;
+	margin: 0px 0px 0px 0px;
+	padding: 2px 0px 3px 0px;
+}
+
+
+.subcontent-element p {
+	margin: 10px 0px;
+	width: 500px;
+	line-height: 1.5em;
+}
+
+.subcontent-element small {
+	text-transform: uppercase;
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 7pt;
+	display: block;
+	width: 80%;
+	border-top: #dddddd 1px dotted;
+	margin: 50px 0px 0px 0px;
+}
+a:link.blue_button
+{
+	text-decoration: none;
+	color: #003366;
+}
+
+a:visited.blue_button {
+	text-decoration: none;
+	color: #003366;
+}
+
+a:hover.blue_button {
+	text-decoration: underline;
+	color: #003366;
+}
+
+.subcontent-navigation {
+	color: #333333;
+	font-size: 10pt;
+	margin: 0px 0px 5px 0px;
+	padding: 5px 0px 6px 0px;
+	border-bottom: #ece9d6 1px solid;
+	background-image: url('../images/subcontent-navigation-bg.gif');
+	background-repeat: no-repeat;
+	background-position: bottom center;
+}
+
+.subcontent-navigation a {
+	color: #003366;
+}
+
+.subcontent-navigation a:hover {
+}
+/*.subcontent-wide {
+	overflow: auto; 
+	width: 80%;
+}*/

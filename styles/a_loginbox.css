@@ -1,0 +1,124 @@
+body {
+	background-color: #23497A;	
+	text-align: center;
+}
+
+h1 {
+	visibility: none;
+	display: none;
+}
+
+#loginWrapper {
+	width: 556px;
+	padding: 10px 0px 13px 0px;
+	background-image: url('../images/loginWrapper-bg.gif');
+	text-align: left;
+	overflow: hidden;
+}
+
+#loginBox {
+	background-color: #4a721b;
+	margin: 0px 0px 0px 11px;
+	width: 531px;
+	height: 486px;
+}
+
+#loginBox-head {
+	background-image:url('../images/loginBox-head-img.jpg');
+	width: 531px;
+	height: 67px;
+}
+
+#loginBox-title {
+	background-color: #104070;
+	background-image:url('../images/loginBox-title-img.jpg');
+	width: 531px;
+	height: 152px;
+	margin: 0px 0px;
+}
+
+#loginBox-body {
+	background-image:url('../images/loginBox-body-img.jpg');
+	width: 531px;
+	height: 221px;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	text-align: center;
+	display: block;
+	margin: 0px 0px;
+}
+
+#loginBox-foot {
+	background-image:url('../images/loginBox-foot-img.jpg');
+	width: 531px;
+	height: 46px;
+
+}
+
+#form-login {
+	padding: 25px;
+	width: 200px;
+	color: #1A3D6A;
+	text-align: left;
+	margin: 0px 140px;
+}
+
+#form-login label {
+	font-weight: bold;
+	width: 60px;
+	float: left;
+	padding: 5px 0px 0px 0px;
+}
+
+#form-login input {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	padding: 3px;
+	margin: 1px 3px;
+	border: 1px solid #23497A;
+}
+
+#form-login hr {
+	border-top: 0px solid #909311;
+	border-bottom: 1px solid #23497A;
+	border-left: none;
+	border-right: none;
+	height: 0px;
+	margin: 30px 0px 5px 1px;
+	padding: 30px 0px 0px 0px;
+}
+
+#form-login div {
+	text-align: right;
+}
+
+#form-login a{
+	color: #C2A905;
+	text-decoration: none;
+}
+
+#form-login a:hover {
+	text-decoration: underline;
+}
+
+#login-box-info {
+	width: 460px;
+	padding: 30px 0px 0px 70px;
+	color: #23497A;
+	text-align: left;
+	font-size: 10pt;
+}
+
+#login-box-info img {
+	margin: 0px 15px 15px 0px;
+	float: left;
+}
+
+#login-box-info a {
+	color: #C2A905;
+	text-decoration: none;
+}
+
+#login-box-info a:hover {
+	text-decoration: underline;
+}

@@ -1,0 +1,82 @@
+.form-common {
+	font-family: Tahoma, Arial, sans-serif; 
+	font-size: 1.0em;
+}
+
+.form-common input{
+	font-family: Tahoma, Arial, sans-serif; 
+	font-size: 10pt;
+	margin: 0px 0px;
+	padding: 1px 2px;
+}
+
+.form-common textarea {
+	font-family: Tahoma, Arial, sans-serif; 
+	font-size: 10pt;
+	margin: 0px 0px 10px 0px;
+	padding: 2px 3px;
+}
+
+.form-common select{
+	font-family: Tahoma, Arial, sans-serif; 
+	font-size: 10pt;
+	margin: 0px 0px;
+}
+
+/*.form-common hr {
+	border: none;
+	border-bottom: #eeeeee 1px solid;
+	border-top: #ffffff 1px solid;
+	
+	width: 400px;
+	height: 0px;
+	padding: 1px;
+	margin: 4px 0px 4px 0px;
+	text-align: left;
+	display: block;
+	clear: both;
+}
+*/
+.form-common label {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 4px 0px;
+	vertical-align: middle;
+	display: inline;
+}
+
+/*.form-common label {
+	width: 100px;
+	padding: 7px 0px;
+	vertical-align: middle;
+}*/
+
+.form-label {
+	color: #003366;
+	width: 90px;
+	padding: 2px 0px 0px 9px;
+	margin: 0px 0px;
+	vertical-align: middle;
+	float: left;
+	display: inline;
+	clear: both;
+}
+
+#form-optionlabel {
+	width: 20px;
+	vertical-align: middle;
+}
+
+.form-okButton {
+	font-family: Tahoma, Arial, sans-serif; 
+	font-size: 10pt;
+	margin: 10px 10px 10px 0px;
+	width: 50px;
+	height: 20px;
+}
+
+.form-area {
+	width: 90%;
+	background-color: #FCFCFA;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid #E0E1D9;
+}

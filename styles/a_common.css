@@ -1,0 +1,108 @@
+body {
+	background-color: #000000;
+	margin: 0px
+}
+
+.wrapper {
+}
+
+
+.hidden {
+	visibility: hidden;
+	display: none;
+}
+
+
+abbr, acronym, dfn {
+	border-bottom: 1px dotted #CCCCCC;
+	/*cursor: help;*/
+}
+
+
+.common {
+	text-align: left;
+	font-family: Tahoma, Arial, sans serif; 
+	font-size: 8pt;
+}
+
+a.common {
+	color: #003366;
+	text-decoration: none;
+}
+
+.common a:visited {
+	color: #003366;
+	text-decoration: none;
+}
+
+.common ul {
+	margin: 5px 15px 5px 15px;
+}
+
+.common button {
+	text-align: center;
+}
+
+.font_tahoma {
+	font-family: Tahoma, Arial, sans serif;
+}
+
+.ffhack {
+    clear:both;
+}
+
+.font_8pt {
+	font-size: 8pt;
+}
+
+.font_bold {
+	font-weight: bold;
+}
+
+.margin_0 {
+	margin: 0px 0px 0px 20px;
+	/*margin: 0px;*/
+}
+
+.color_darkbrown {
+	color: #534741;
+}
+
+.color_darkblue {
+	color: #003366;
+}
+
+.color_darkgrey {
+	color: #555555;
+}
+
+.color_white {
+	color: #FFFFFF;
+}
+
+a {
+	color: #A0410D;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.indent-1 {
+	margin: 0em 0em 0em 1em;
+}
+
+.indent-2 {
+	margin: 0em 0em 0em 2em;
+}
+
+input {
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 10pt;
+}
+
+option {
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 10pt;
+}

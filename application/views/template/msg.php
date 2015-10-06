@@ -1,0 +1,1 @@
+<div id="window_msg_content" style="display: block !important;"><?=$msg?></div>
