@@ -34,3 +34,11 @@ Fitur pada aplikasi ini antara lain sebagai berikut :
 	- Rekap Absensi
 	- Rekap SPP
 	
+Tools :
+	- CodeIgniter 2.0
+	- MySQL
+	- jQuery
+Anda dapat menambah atau mengubah fitur yang ada sesuai dengan kebutuhan. Untuk permintaan database silakan kirim email ke abosmond86@gmail.com.
+
+Dibuat oleh Andrew B. Osmond (2011).
+	
