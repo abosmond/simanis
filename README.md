@@ -1,6 +1,6 @@
 # SIMANIS
-SIMANIS (Sistem Informasi Manajemen Absensi dan NIlai Siswa) merupakan aplikasi yang digunakan untuk memasukkan absensi dan nilai ulangan bagi tiap siswa di sekolah.
-Fitur pada aplikasi ini antara lain sebagai berikut :
+SIMANIS (Sistem Informasi Manajemen Absensi dan NIlai Siswa) merupakan aplikasi yang digunakan untuk memasukkan absensi siswa dan nilai ulangan bagi tiap siswa di sekolah.
+Fitur-fitur pada aplikasi ini antara lain sebagai berikut :
 
 1. Setting Akademik & Siswa
 	- Profile Akademik
@@ -34,7 +34,7 @@ Fitur pada aplikasi ini antara lain sebagai berikut :
 	- Rekap Absensi
 	- Rekap SPP
 	
-Tools :
+Alat :
 	- CodeIgniter 2.0
 	- MySQL
 	- jQuery
